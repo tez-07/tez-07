@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tez Borgohain Senior QA Analyst | SDET | Certified ScrumMaster® | DSA Learner</h1>
+<h1 align="center">Hi 👋, I'm Tez Borgohain </h1>
+<h3>Senior QA Analyst | SDET | Certified ScrumMaster® | DSA Learner</h3>
+
 <h3 align="center">A highly driven Quality Engineering Analyst with 4+ years of hands-on experience in QA automation, Agile project delivery, and client engagement across fintech and automotive domains. Passionate about building clean automation frameworks and mastering data structures & algorithms. Currently growing into a full-stack SDET.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tez-07&label=Profile%20views&color=0e75b6&style=flat" alt="tez-07" /> </p>
