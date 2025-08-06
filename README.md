@@ -3,6 +3,7 @@
 <h3 align="center">A highly driven Quality Engineering Analyst with 4+ years of hands-on experience in QA automation, Agile project delivery, and client engagement across fintech and automotive domains. Passionate about building clean automation frameworks and mastering data structures & algorithms. Currently growing into a full-stack SDET.</h3>
 
 
+<br>
 
 
 
