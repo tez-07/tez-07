@@ -3,8 +3,9 @@
 <h3 align="center">A highly driven Quality Engineering Analyst with 4+ years of hands-on experience in QA automation, Agile project delivery, and client engagement across fintech and automotive domains. Passionate about building clean automation frameworks and mastering data structures & algorithms. Currently growing into a full-stack SDET.</h3>
 
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tez-07&label=Profile%20views&color=0e75b6&style=flat" alt="tez-07" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tez-07" alt="tez-07" /></a> </p>
 
 
 - 🔭 I’m currently working on [**Data Driven Framework using Selenium + TestNG**](https://github.com/tez-07/Data-Driven-Framework)
