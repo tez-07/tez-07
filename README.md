@@ -8,7 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tez-07" alt="tez-07" /></a> </p>
 
 
-- 🔭 I’m currently working on [**Data Driven Framework using Selenium + TestNG**](https://github.com/tez-07/Data-Driven-Framework)
+- 🔭 I’m have currently worked on
+-   [**Data Driven Framework using Selenium + TestNG**](https://github.com/tez-07/Data-Driven-Framework)
+-   [**Hybrid Framework using Selenium + TestNG**](https://github.com/tez-07/HybridFramework_SeleniumJava)
 
 - 🌱 I’m currently learning **- **Playwright, Cypress for modern test automation** - **Data Structures & Algorithms (Java + Python)** - **DevOps for Test Automation: Jenkins | Docker | Azure Pipelines** - **System Design basics and test architecture****
 
