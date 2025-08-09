@@ -10,7 +10,7 @@
 
 - 🔭 I’m have currently worked on
     -   [**Data Driven Framework using Selenium + TestNG**](https://github.com/tez-07/Data-Driven-Framework)
-    -   [**Hybrid Framework using Selenium + TestNG**](https://github.com/tez-07/HybridFramework_SeleniumJava)
+    -   [**Hybrid Framework using Selenium + TestNG**](https://github.com/tez-07/HybridSeleniumJavaFramework/tree/main)
 
 - 🌱 I’m currently learning **- **Playwright, Cypress for modern test automation** - **Data Structures & Algorithms (Java + Python)** - **DevOps for Test Automation: Jenkins | Docker | Azure Pipelines** - **System Design basics and test architecture****
 
