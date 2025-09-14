@@ -29,11 +29,12 @@
 ## 🛠️ Technical Skills
 
 - **Methodologies:** Agile (Scrum, Kanban), Waterfall, Hybrid  
-- **Testing Types:** System Integration Testing (SIT), Integration Testing, System Testing, Regression Testing, User Acceptance Testing (UAT), Unit Testing, API Testing, Automation Testing, Manual Testing  
+- **Testing Types:** System Integration Testing (SIT), Integration Testing, System Testing, Regression Testing, User Acceptance Testing (UAT), Unit Testing, API Testing, Automation Testing, Manual Testing
 - **Project Management:** Jira, Confluence, Microsoft Project, HP-ALM, TestRail, Zephyr, Power BI  
-- **API Testing:** Postman, SoapUI, Swagger, RestAssured  
+- **API Testing:** Postman, Swagger, RestAssured
+- **Accessibility Testing:** Voiceover, Content Testing  
 - **Testing Frameworks & Automation:** JUnit, TestNG, Cucumber, Selenium WebDriver, Cypress, Playwright  
-- **Programming & Scripting:** Java, JavaScript, MySQL, XML, JSON  
+- **Programming & Scripting:** Java, JavaScript, Python, MySQL, XML, JSON  
 - **Development Environments & Cross-Browser Testing:** Eclipse IDE
 
 
