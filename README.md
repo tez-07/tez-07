@@ -21,8 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.behance.net/tezborgohain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/tezborgohain" height="30" width="40" /></a>  
-<a href="https://www.behance.net/tezborgohain" target="blank"><img align="center" src="https://logo.wine/logo/LinkedIn" alt="https://www.linkedin.com/in/tez-borgohain/" height="30" width="40" /></a>  
+<a href="https://www.behance.net/tezborgohain" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/tez-borgohain/" target="_blank" style="margin-left:10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" />
+</a>
 
 </p>
 
