@@ -3,8 +3,7 @@
 <h3 align="center">A highly driven Quality Engineering Analyst with 4+ years of hands-on experience in QA automation, Agile project delivery, and client engagement across fintech and automotive domains. Passionate about building clean automation frameworks and mastering data structures & algorithms. Currently growing into a full-stack SDET.</h3>
 
 - 🔭 I’m have currently worked on
-    -   [**Data Driven Framework using Selenium + TestNG**](https://github.com/tez-07/DataDrivenSeleniumJavaFramework)
-    -   [**Hybrid Framework using Selenium + TestNG**](https://github.com/tez-07/HybridSeleniumJavaFramework/tree/main)
+    -   [**Cucumber BDD Framework using API + RestAssured**](https://github.com/tez-07/CucumberBDDApiTestingFramework)
 
 - 🌱 I’m currently learning **- **Playwright, Cypress for modern test automation** - **Data Structures & Algorithms (Java + Python)** - **DevOps for Test Automation: Jenkins | Docker | Azure Pipelines** - **System Design basics and test architecture****
 
