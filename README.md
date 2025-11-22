@@ -33,13 +33,14 @@
 ## 🛠️ Technical Skills
 
 - **Methodologies:** Agile (Scrum, Kanban), Waterfall, Hybrid  
-- **Testing Types:** System Testing, Integration Testing, Regression Testing, User Acceptance Testing (UAT), Unit Testing, API Testing, Automation Testing, Manual Testing
+- **Testing Types:** System, Integration, Regression, UAT, Unit, API, Automation, Manual Testing
 - **Project Management:** Jira, Confluence, Microsoft Project, HP-ALM, TestRail, Zephyr, Power BI  
 - **API Testing:** Postman, Swagger, RestAssured
+- **CI/CD:** Jenkins, Azure Devops, Git, GitHub, Docker
 - **Accessibility Testing:** Voiceover, Content Testing  
-- **Testing Frameworks & Automation:** JUnit, TestNG, Cucumber, Selenium WebDriver, Cypress, Playwright  
-- **Programming & Scripting:** Java, JavaScript, Python, MySQL, XML, JSON  
-- **Development Environments & Cross-Browser Testing:** Eclipse IDE
+- **Testing Frameworks & Automation:** JUnit, TestNG, Cucumber BDD RestAssured, Selenium Java Hybrid/Data-driven, Cypress, Playwright
+- **Programming & Scripting:** Java, JavaScript, Python, SQL
+- **Development Environments & Cross-Browser Testing:** Eclipse IDE, Visual Studio
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tez-07&show_icons=true&locale=en&layout=compact" alt="tez-07" /></p>
